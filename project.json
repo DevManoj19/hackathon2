@@ -1,0 +1,37 @@
+{
+  "name": "Heritage Archive DID Verification System",
+  "version": "1.0.0",
+  "description": "A decentralized identity and verifiable credential system for authenticating heritage contributors using DIDKit and Python.",
+  "keywords": [
+    "decentralized-identity",
+    "verifiable-credentials",
+    "heritage-preservation",
+    "DIDKit",
+    "python",
+    "web3",
+    "digital-archive"
+  ],
+  "author": {
+    "name": "Developer Manoj",
+    "email": "your-email@example.com",
+    "github": "https://github.com/DevManoj19"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "didkit": "*",
+    "pyld": "*",
+    "requests": "*",
+    "nest_asyncio": "*"
+  },
+  "scripts": {
+    "start": "python main.py",
+    "backup": "python backup_script.py"
+  },
+  "entry_point": "main.py",
+  "platform": "Google Colab / Jupyter Notebook",
+  "hackathon_ready": true,
+  "status": "Production Ready",
+  "last_updated": "2025-07-06T00:00:00Z",
+  "demo_video_url": "https://youtu.be/your-demo-link",
+  "submission_summary_url": "https://devpost.com/software/heritage-archive"
+}
