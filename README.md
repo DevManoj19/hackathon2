@@ -1,6 +1,3 @@
-### 📘 `README.md`
-
-````markdown
 # 🏛️ Heritage Archive DID Verification System
 
 A decentralized identity (DID) and verifiable credential system designed to register, verify, and archive heritage contributors using the W3C DID standard and `didkit`. This project enables secure, tamper-proof recognition of individuals contributing to cultural preservation efforts.
@@ -95,16 +92,12 @@ MIT License. Feel free to fork, contribute, or deploy.
 
 ## 💬 Contact
 
-Developed with ❤️ by **[Manoj (DevManoj19)](https://github.com/DevManoj19)**
+Developed with ❤️ by **[DevManoj19](https://github.com/DevManoj19)**
 Drop feedback, issues, or collab ideas anytime!
 
 ---
 
-````
-
----
-
-### 📦 `requirements.txt`
+## 📦setup.sh/requirements.txt
 
 ```txt
 didkit
@@ -119,6 +112,8 @@ nest_asyncio
 # Ubuntu/Debian
 sudo apt-get install libsodium-dev
 
+````
+```bash
 # macOS
 brew install libsodium
 ```
